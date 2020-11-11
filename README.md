@@ -1,4 +1,4 @@
-### Hi there 👋
+![ericanaglikreadme](https://user-images.githubusercontent.com/40673456/98872795-08d0e180-242c-11eb-9b54-029680ea6473.png)
 
 <!--
 **ericanaglik/ericanaglik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
