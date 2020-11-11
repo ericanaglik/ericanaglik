@@ -1,5 +1,8 @@
 ![ericanaglikreadme](https://user-images.githubusercontent.com/40673456/98872795-08d0e180-242c-11eb-9b54-029680ea6473.png)
 
+[![Erica's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericanaglik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericanaglik)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ericanaglik/ericanaglik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
